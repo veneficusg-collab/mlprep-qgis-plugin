@@ -1,0 +1,9 @@
+numpy
+pandas
+geopandas
+tensorflow
+scikit-learn
+keras-tuner
+imblearn
+matplotlib
+scikeras

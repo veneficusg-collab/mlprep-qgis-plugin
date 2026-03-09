@@ -1,0 +1,11 @@
+[general]
+name=MLPREP Detection Suite
+qgisMinimumVersion=3.0
+description=A unified suite for Landslide Detection and Earthquake-Induced Landslide (EIL) Hazard mapping.
+version=1.0
+author=Your Name
+email=your.email@example.com
+about=This plugin merges Landslide Detection and EIL PINN detection into a single toolbar.
+tracker=
+repository=
+category=Analysis
